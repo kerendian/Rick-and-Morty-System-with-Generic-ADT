@@ -12,4 +12,4 @@ Implemented the four functions needed to implement generic ADT by the user - del
 
 Reading from a configuration file with a known structure and placing the various structures from the file into the management system. 
 
-The management system is presented in the form of a switch case menu in which the various options for execution - for example adding, deleting, searching according to different properties, printing according to different properties, and additional options - all done according to the user's choices and inputs, and required runtimes.
+The management system is presented in switch case menu in which the various options for execution - for example adding, deleting, searching according to different properties, printing according to different properties, and additional options - all done according to the user's choices and inputs, and required runtimes.
