@@ -3,7 +3,7 @@
 Based on an episode in the series Rick and Morty where a lot of Jerries (Morty's dad) enters through the portal and they do not know who the real Jerry is. They embark on a journey to find the real Jerry, by collecting Jerries and classifying them by certain attributes in the Jerries management system.
 
 ## The Data Structures
-**Implemented four generic ADT types** - KeyValuePair, LinkedList, HashTable and Multi-ValueHashTable. We used them to implement a management system to manage different types of Jerries.
+**Implemented four generic ADT types** - KeyValuePair, LinkedList, HashTable and Multi-ValueHashTable. The system uses each of them to implement a management system in different contexts in order to improve space complexity and time complexity.
 
 **Multi-ValueHashTable** - The HashTable must support pairing: Key and Value and deals with collisions by chaining to the linked list. The difference is that each key can have several different values. And they must be kept together so that given a key we return a list of all the values which have the same key in O(1) on average.
 ## The JerryBoree management system 
